@@ -1,0 +1,65 @@
+[
+    {
+        "versao":  "1.0.0",
+        "publicada_em":  "2026-10-24T21:20:06Z",
+        "link":  "https://github.com/italooliveira9613-pixel/HidroPro-Downloads/releases/download/v1.0.0/HidroPro-Setup-v1.0.0.exe",
+        "sha256":  "A9AE294AD10D3223CBDC97E2382FE48B2E4C38C599C16606F19C42A4902CC7BE",
+        "novidades":  [
+                          {
+                              "titulo":  "Lançamento",
+                              "itens":  [
+                                            "Primeira versão do HidroPro para Revit."
+                                        ]
+                          }
+                      ]
+    },
+    {
+        "versao":  "1.0.1",
+        "publicada_em":  "2026-11-03T15:29:01Z",
+        "link":  "https://github.com/italooliveira9613-pixel/HidroPro-Downloads/releases/download/v1.0.1/HidroPro-Setup-v1.0.1.exe",
+        "sha256":  "34F8A82F4CB4652E089C4A1A1B3B688D6D31EEA641A5100FEA3F607401FE6490",
+        "novidades":  [
+                          {
+                              "titulo":  "Ramal Hidráulico",
+                              "itens":  [
+                                            "Água fria também em PPR, CPVC e PEX (sistemas pressurizados), cada material com a sua família de pontos.",
+                                            "Ramal em PEX (água fria e quente), com joelhos e tês de PEX. O trecho até o último ponto fica no diâmetro do ponto (16 mm), sem redução no joelho.",
+                                            "Registro de gaveta e registro de pressão em PEX e CPVC, no tipo do material do tubo.",
+                                            "Misturador monocomando nos chuveiros de água quente, com kit de PPR, CPVC ou PEX. A subida do barrilete pode sair no tê do kit.",
+                                            "Curvas de transposição preferencialmente no tubo de PVC marrom."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Esgoto Interativo",
+                              "itens":  [
+                                            "Ligação lateral a partir de um trecho já traçado: a caixa sifonada desce junto para alinhar com o ramal ou, se não puder, é feita uma queda vertical.",
+                                            "Luva dos joelhos e dos tês ajustada automaticamente para o lado de jusante a cada trecho criado.",
+                                            "Ventilação: a derivação no tubo de esgoto não faz mais o esgoto perder os Fixture Units, e o tê fica com a bolsa do lado certo."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Isométricos e Documentação",
+                              "itens":  [
+                                            "Documentação automática dos isométricos melhorada: etiquetas das peças sem linha, texto dos tubos encostado, e as opções editáveis num cartão \"Documentação\".",
+                                            "Aba Pranchas: monta as pranchas dos isométricos na área livre do carimbo, com pré-visualização e ajuste arrastando antes de criar.",
+                                            "Vista do Instalador: etiquetas dos pontos, dos tubos e dos registros.",
+                                            "Ferramenta nova Montar Pranchas: organiza as pranchas existentes e continua a numeração do projeto."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Biblioteca (Preparar Projeto)",
+                              "itens":  [
+                                            "Famílias novas de pontos (água fria em PPR, CPVC e PEX; água quente em PEX), misturador, e registros com conectores de PEX e CPVC.",
+                                            "Tipos de tubo, sistemas e conexões revisados, sem tipos duplicados.",
+                                            "Depois de atualizar, rode o Preparar Projeto em cada projeto para receber as famílias novas."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Atualizações",
+                              "itens":  [
+                                            "Aviso de versão nova: ao abrir o Revit, o HidroPro avisa quando houver uma versão mais nova, mostra as novidades e baixa o instalador."
+                                        ]
+                          }
+                      ]
+    }
+]
