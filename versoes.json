@@ -61,5 +61,73 @@
                                         ]
                           }
                       ]
+    },
+    {
+        "versao":  "1.0.2",
+        "publicada_em":  "2026-11-15T14:55:58Z",
+        "link":  "https://github.com/italooliveira9613-pixel/HidroPro-Downloads/releases/download/v1.0.2/HidroPro-Setup-v1.0.2.exe",
+        "sha256":  "2176955919CDB02ACFABEF85B51BDD7B6B3B8F1BABF364A4AF5C2C5FBB8440C1",
+        "novidades":  [
+                          {
+                              "titulo":  "Esgoto",
+                              "itens":  [
+                                            "A luva dos joelhos e a bolsa dos tês ficam sempre do lado de jusante.",
+                                            "O botão Ajustar Prolongadores e Conexões passa a acertar também os tês.",
+                                            "Ventilação: quando o tubo de esgoto não tem caimento, o tê da derivação segue a rede para descobrir o lado de saída."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Reservatórios",
+                              "itens":  [
+                                            "Cálculo passo a passo, com a tabela de consumo e os coeficientes editáveis. A soma vai para o memorial.",
+                                            "Você escolhe os volumes da cisterna e da caixa d\u0027água (quantidade × litros), com aviso quando ficarem abaixo do necessário.",
+                                            "O volume necessário aparece em destaque."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Castelo d\u0027Água",
+                              "itens":  [
+                                            "Corte do castelo ao vivo, em escala, no painel ao lado, com os campos numerados. Na escolha da tipologia, os três tipos aparecem lado a lado.",
+                                            "A altura do espaço vazio é livre e pode ser 0.",
+                                            "O GRAVAR NO MODELO foi corrigido, e a legenda ganhou um corte esquemático com as cotas."
+                                        ]
+                          },
+                          {
+                              "titulo":  "VRP",
+                              "itens":  [
+                                            "Esquema vertical ao vivo no painel ao lado, com os campos numerados.",
+                                            "Pressões depois da válvula (mínima e máxima). A legenda, o memorial e os parâmetros passam a incluir o sistema com VRP."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Água Quente",
+                              "itens":  [
+                                            "A quantidade de aquecedores e a opção \"outro modelo\" ficam antes da lista de modelos."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Pranchas (aba Pranchas dos Isométricos e Montar Pranchas)",
+                              "itens":  [
+                                            "Seleção de várias vistas na pré-visualização, com os mesmos gestos do Revit (Ctrl, Shift, janela, Ctrl+A), e mover em grupo.",
+                                            "A pré-visualização mostra o formato real do viewport e as vistas maiores que a folha em escala. O \"Carimbo ▾\" escolhe o carimbo de cada prancha nova.",
+                                            "É possível criar as pranchas mesmo com vistas em vermelho e ajustar depois, na prancha.",
+                                            "Prancha base: no Montar Pranchas, você cria dentro da ferramenta uma base com vários carimbos e legendas."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Planta Chave",
+                              "itens":  [
+                                            "O recorte segue a arquitetura vinculada (Revit, IFC ou DWG) e pega o pavimento inteiro. O título passa a ser \"PLANTA CHAVE\"."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Preparar Projeto e biblioteca",
+                              "itens":  [
+                                            "Nova vista 3D HP_CAMINHO CRÍTICO, para conferir os Fixture Units das tubulações.",
+                                            "Modelos de vista de documentação, tag de tubos (em mm) e tag de coluna atualizados.",
+                                            "Depois de atualizar, rode o Preparar Projeto em cada projeto para receber essas mudanças."
+                                        ]
+                          }
+                      ]
     }
 ]
