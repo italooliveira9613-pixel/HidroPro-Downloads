@@ -129,5 +129,28 @@
                                         ]
                           }
                       ]
+    },
+    {
+        "versao":  "1.0.3",
+        "publicada_em":  "2026-11-16T14:56:25Z",
+        "link":  "https://github.com/italooliveira9613-pixel/HidroPro-Downloads/releases/download/v1.0.3/HidroPro-Setup-v1.0.3.exe",
+        "sha256":  "996B2D8DEFD463DE1B60EC57F5EFD26789AAD6D53D60BAA2D2140C096F48C6E5",
+        "novidades":  [
+                          {
+                              "titulo":  "Revit em português",
+                              "itens":  [
+                                            "Correção: com o Revit em português, a caixa sifonada e o ralo seco voltam a ser reconhecidos.",
+                                            "Esgoto Interativo: na ligação lateral e na ligação no ralo, a peça desce para alinhar com o ramal, em vez de fazer a queda vertical.",
+                                            "Ajustar Prolongadores e Conexões encontra as caixas sifonadas e os ralos secos, e o Pontos de Esgoto ajusta a Distância à Saída do ralo seco."
+                                        ]
+                          },
+                          {
+                              "titulo":  "Atualizações",
+                              "itens":  [
+                                            "O instalador confere se o Revit está aberto e oferece fechá-lo. O Revit pergunta se você quer salvar os projetos; nada é fechado à força.",
+                                            "Janela Conta: quando houver uma versão nova, aparece um aviso com o botão \"Baixar e instalar\", mesmo que você tenha fechado o aviso automático."
+                                        ]
+                          }
+                      ]
     }
 ]
